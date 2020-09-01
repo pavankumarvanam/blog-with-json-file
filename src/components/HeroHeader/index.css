@@ -1,0 +1,19 @@
+.HeroHeader{
+    border-bottom:1px solid #cccccca3;
+}
+
+.container{
+    width:1170px;
+    margin:0 auto;
+}
+
+.logo{
+    width:100%;
+    text-align: center;
+    padding:15px 0px;
+}
+
+.HeroHeader h1{
+    font-size:70px;
+    font-family: 'Stalemate', cursive;
+}

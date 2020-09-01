@@ -1,0 +1,23 @@
+.relatedPosts{
+    border:1px solid #ccc;
+    padding:15px;
+    margin-top:20px;
+}
+
+.relatedHead{
+    font-size:25px;
+    text-align:center;
+    margin:10px 0px;
+}
+
+.relatedPosts ul li{
+    display: inline-block;
+    margin:10px 0px 5px;
+    list-style:none;
+}
+
+.relatedPosts ul li a{
+    text-decoration: none;
+    font-size:20px;
+    color:#222;
+}

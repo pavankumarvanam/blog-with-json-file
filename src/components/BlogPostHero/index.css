@@ -1,0 +1,25 @@
+.blogposthero_img{
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.Breadcrumb{
+    text-align: center;
+    position:absolute;
+    margin-top:150px;
+    margin-left:42.5%;
+}
+.Breadcrumb ul li{
+    display: inline-block;
+    margin-right:5px;
+    font-size:18px;
+    color:#fff;
+}
+.Breadcrumb ul li a{
+    color:#fff;
+    text-decoration: none;
+}

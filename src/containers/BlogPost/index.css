@@ -1,0 +1,4 @@
+.Blogbody{
+    display: flex;
+    justify-content: space-between;
+}

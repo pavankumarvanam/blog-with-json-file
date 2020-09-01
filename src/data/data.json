@@ -1,0 +1,34 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "blogCategory" : "LifeStyle",
+            "blogTitle" : "That evening at bali beach was wounderful then any other evening",
+            "slug": "evening-at-bali-beach",
+            "postedOn": "August 21, 2020",
+            "author": "Pavan Vanam",
+            "blogImage": "blog_image_1.jpeg",
+            "blogText": "lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat... " 
+        },
+        {
+            "id" : 2,
+            "blogCategory" : "Fashion",
+            "blogTitle" : "5 Reasons Why Ladies Prefer To Have Brown Hair And Black Dress",
+            "slug": "5-reasons-why-ladies-prefer",
+            "postedOn": "July 21, 2020",
+            "author": "Pavan Vanam",
+            "blogImage": "blog_image_2.jpg",
+            "blogText": "lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat... " 
+        },
+        {
+            "id" : 3,
+            "blogCategory" : "LifeStyle",
+            "blogTitle" : "This Post Just Gone Viral Without Any Reason",
+            "slug": "this-post-just-gone-viral",
+            "postedOn": "July 21, 2016",
+            "author": "Pavan Vanam",
+            "blogImage": "blog_image_3.jpeg",
+            "blogText": "lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat... " 
+        }
+    ]
+}

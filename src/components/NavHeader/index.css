@@ -1,0 +1,26 @@
+.NavHeader{
+    padding:20px 0px;
+    border-bottom:1px solid #cccccca3
+}
+
+.NavHeader .container 
+{   
+    justify-content: center;
+    text-align: center;
+}
+.NavMenu ul{
+    display: inline-block;
+    text-align: center;
+}
+.NavMenu ul li{
+    display: inline-block;
+    margin:0px 20px;
+    list-style:none;
+}
+.NavMenu ul li a{
+    text-decoration:none;
+    text-transform: uppercase;
+    font-size:17px;
+    font-weight: 400;
+    color:#000;
+}
