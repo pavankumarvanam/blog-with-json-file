@@ -1,0 +1,13 @@
+.Countrylist{
+    margin-top:20px;
+    max-height:300px;
+    overflow:scroll;
+    border:1px solid #ccc;
+}
+
+.Countrylist ul{
+    padding:15px;
+    list-style:none;
+}
+
+.Countrylist ul li{padding:7px 0px;}

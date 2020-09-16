@@ -1,0 +1,27 @@
+.add-post{
+    padding:20px
+}
+
+.add-post table{
+    border:1px solid #ccc;
+    border-collapse: collapse;
+    width:100%;
+}
+
+.add-post td{
+    border:1px solid #ccc;
+    border-collapse: collapse;
+    padding:10px;
+}
+
+.add-post td input, .add-post td textarea{
+    width:97%;
+    padding:8px;
+}
+
+.add-post td button{
+    padding:10px;
+    font-size:20px;
+    border-radius:10px;
+    
+}

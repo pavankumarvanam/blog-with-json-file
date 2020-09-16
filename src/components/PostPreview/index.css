@@ -1,0 +1,26 @@
+.PostPreview{
+    padding:15px;
+    width:46%;
+    float:left;
+}
+.PreviewBox{
+    border:1px solid #ccc;
+}
+
+.PreviewBox img{
+    width: 100%;
+    height:220px;
+}
+
+.PreviewFooter{
+    padding:15px;
+}
+
+.previewCat{
+    text-align:center;
+}
+
+.previewTitle{
+    font-size: 23px;
+    text-align: center;
+}

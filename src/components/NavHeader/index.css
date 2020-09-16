@@ -17,10 +17,11 @@
     margin:0px 20px;
     list-style:none;
 }
-.NavMenu ul li a{
+.NavMenu ul li a, .navlink{
     text-decoration:none;
     text-transform: uppercase;
     font-size:17px;
     font-weight: 400;
     color:#000;
 }
+
